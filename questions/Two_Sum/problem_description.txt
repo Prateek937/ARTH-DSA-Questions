@@ -1,0 +1,5 @@
+Human Being Edition:
+--------------------
+There n boxes placed in a table with some number of chocolates inside them. 
+A child starts crying for k chocolates. His parents take him to the table and tells the child 
+to have only two boxes that will have k chocolates together.
